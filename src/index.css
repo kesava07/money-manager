@@ -1,0 +1,24 @@
+:root {
+  --bg-success: #eefdd1;
+  --border-success: #ddf4aa;
+  --bg-info: #dafdfd;
+  --border-info: #b5e3e0;
+  --bg-primary: #efeafc;
+  --border-primary: #cbb2ea;
+  --bg-default: #f3f3f3;
+  --border-default: #d5d5d5;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,24 @@
+.wrapper {
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+.wrapper-primary {
+  background-color: var(--bg-primary);
+  border: 2px solid var(--border-primary);
+}
+
+.wrapper-info {
+  background-color: var(--bg-info);
+  border: 2px solid var(--border-info);
+}
+
+.wrapper-success {
+  background-color: var(--bg-success);
+  border: 2px solid var(--border-success);
+}
+
+.wrapper-default {
+  background-color: var(--bg-default);
+  border: 2px solid var(--border-default);
+}
